@@ -1,4 +1,4 @@
-# Stack operations
+# Stack usage for arithmetic expressions
 ### C++ program to check validity of expressions, convert to prefix and postfix, and evaluate expressions.
 
 **Project Description:**
