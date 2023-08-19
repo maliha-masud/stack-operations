@@ -18,4 +18,4 @@
 * Display result of expression evaluation
 >* Input from the user = (120-(60+5))
 >* Check validity: if valid:
->>* Prefix: - 120 + 60 5;  Postfix: 120 60 5 + - ; Result: 55
+>> Prefix: - 120 + 60 5;  Postfix: 120 60 5 + - ; Result: 55
